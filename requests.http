@@ -1,0 +1,8 @@
+### GET requests to example server
+GET http://localhost:8080
+###
+GET http//localhost:8080/api/books
+###
+
+// treba da postoje i button-i pored svakog GET-a da bi se
+// mogli slati zahtjevi
